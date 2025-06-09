@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 22,
+      "gender": "Male",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 21,
+      "gender": "Female",
+      "email": "janesmith@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Sam Brown",
+      "age": 23,
+      "gender": "Male",
+      "email": "sambrown@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "age": 20,
+      "gender": "Female",
+      "email": "emilydavis@example.com"
+    },
+    {
+      "id": "5",
+      "name": "Michael Johnson",
+      "age": 25,
+      "gender": "Male",
+      "email": "michaelj@example.com"
+    },
+    {
+      "id": "6",
+      "name": "Olivia Williams",
+      "age": 22,
+      "gender": "Female",
+      "email": "oliviawilliams@example.com"
+    },
+    {
+      "id": "7",
+      "name": "Lucas Martinez",
+      "age": 24,
+      "gender": "Male",
+      "email": "lucasmartinez@example.com"
+    },
+    {
+      "id": "8",
+      "name": "Sophia Lee",
+      "age": 23,
+      "gender": "Female",
+      "email": "sophialee@example.com"
+    },
+    {
+      "id": "9",
+      "name": "Daniel Walker",
+      "age": 21,
+      "gender": "Male",
+      "email": "danielwalker@example.com"
+    },
+    {
+      "id": "10",
+      "name": "Chloe Harris",
+      "age": 22,
+      "gender": "Female",
+      "email": "chloeharris@example.com"
+    },
+    {
+      "id": "11",
+      "name": "Harris Jav",
+      "age": 22,
+      "gender": "Male",
+      "email": "harrisjav@example.com"
+    },
+    {
+      "id": "1748965457698",
+      "name": "Sun",
+      "gender": "male",
+      "age": "3",
+      "email": "nupheaoeun@gmail.com"
+    },
+    {
+      "id": "1748965475368",
+      "name": "Rith",
+      "gender": "male",
+      "age": "122",
+      "email": "pheasky193@gmail.com"
+    },
+    {
+      "id": "1748965772422",
+      "name": "Rith",
+      "gender": "male",
+      "age": "10",
+      "email": "s@gmail.com"
+    }
+  ]
+}
